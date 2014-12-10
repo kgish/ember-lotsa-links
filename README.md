@@ -1,6 +1,6 @@
 # Lotsa interesting emberjs links
 
-Here is a list of interesting emberjs links that I have collected during my many adventurous days exploring the wonderful world of all things of emberjs, hope it's useful.
+Here is a list of interesting emberjs links that I have collected during my many adventurous days exploring the wonderful world of all things of emberjs, listed in alphabetical order by title, hope it's useful.
 
 ## General
 
