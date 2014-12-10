@@ -1,4 +1,79 @@
-lotsa-emberjs-links
-===================
+# Lotsa interesting emberjs links
 
-A list of interesting emberjs links
+Here is a list of interesting emberjs links that I have collected during my many adventurous days exploring the wonderful world of all things of emberjs, hope it's useful.
+
+## General
+
+[Addepar | Ember Widgets](http://addepar.github.io/#/ember-widgets/overview)
+[An In-Depth Introduction To Ember.js | Smashing Magazine](http://www.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
+[Building a real world pagination with Ember.js - the right way](http://webcloud.info/blog/2014/11/01/building-a-real-world-pagination-with-ember-js-the-right-way/)
+[Building an Ember App with Rails Part 1](http://reefpoints.dockyard.com/2014/05/07/building-an-ember-app-with-rails-part-1.html)
+[Contribute to Ember.js 2.0. No coding required. :: madhatted.com](http://madhatted.com/2014/11/5/contribute-to-ember-js-2-0-no-coding-required)
+[Dependency injection in Ember.js - First steps - Balint Erdi](http://balinterdi.com/2014/05/01/dependency-injection-in-ember-dot-js.html)
+[Ember - Tricks | Code snippets repository for emberjs](http://www.ember-tricks.com/#/tricks)
+[Ember Addons](http://www.emberaddons.com/?utm_source=Ember+Weekly&utm_campaign=33486b3743-Ember_Weekly_Issue_80&utm_medium=email&utm_term=0_e96229d21d-33486b3743-106354641)
+[Ember CLI](http://www.ember-cli.com/)
+[Ember Data: A Tutorial and Examples of the Ember.js Data Library | Toptal](http://www.toptal.com/emberjs/a-thorough-guide-to-ember-data)
+[Ember Simple Auth - lightweight authentication/authorization library for Ember.js](http://ember-simple-auth.simplabs.com/)
+[Ember Zone](http://ember.zone/)
+[Ember.js - Discussion forum](http://discuss.emberjs.com/)
+[Ember.js - The Road to Ember Data 1.0](http://emberjs.com/blog/2014/03/18/the-road-to-ember-data-1-0.html)
+[Ember.js Authentication - the right way (Javascript version) - WebCloud](http://webcloud.github.io/blog/2014/04/07/emberjs-authentication-the-right-way-javascript-version/)
+[Ember.js](http://emberjs.com/)
+[EmberDataModelMaker](http://andycrum.github.io/ember-data-model-maker/)
+[EmberFlare](https://emberflare.com/entries)
+[EmberJS - Tuts+ Code Category](http://code.tutsplus.com/categories/emberjs)
+[EmberScript](http://emberscript.com/)
+[EmberWatch](http://emberwatch.com/)
+[Emblem.js](http://emblemjs.com/)
+[Evil Trout&#39;s Blog](http://eviltrout.com/)
+[Getting Started with Ember.js using Ember CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/)
+[JSBin](http://jsbin.com/?html,css,js,output)
+[Rails + Angular / Rails + Ember](https://www.airpair.com/ruby-on-rails/posts/ember-vs-angular-with-rails)
+[Stack Overflow - Emberjs questions](http://stackoverflow.com/questions/tagged/ember.js)
+[Vic Ramon&#39;s Ember Tutorial](http://ember.vicramon.com/?utm_source=Ember+Weekly&utm_campaign=1e0f4ae094-Ember_Weekly_Issue_62&utm_medium=email&utm_term=0_e96229d21d-1e0f4ae094-103045353)
+[Your First Ember.js App: A Comprehensive Tutorial | Toptal](http://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app)
+
+## Videos
+
+[Awesome Ember Tricks - YouTube](https://www.youtube.com/watch?v=kBhGXX4zbXw)
+[Building Ambitious Web Applications with Ember.js on Vimeo](http://vimeo.com/64223113)
+[Building URL-Driven Web Apps with Ember.js](http://www.infoq.com/presentations/emberjs-url)
+[Building Web Apps with Ember.js](http://www.infoq.com/presentations/demo-emberjs)
+[Ember Addons - Richard Livsey on Vimeo](http://vimeo.com/109672719)
+[Ember Conf 2014 Schedule - Confreaks, LLC](http://www.confreaks.com/events/emberconf2014)
+[Ember Data: Tips, Tricks, &amp; Lessons Learned - YouTube](https://www.youtube.com/watch?v=HL2bMjndviE)
+[Ember JS Lists View an introduction by Erik Bryn - YouTube](https://www.youtube.com/watch?v=i3vEjbjV8Sk)
+[Ember SparkCasts](http://www.sparkcasts.net/)
+[Ember Sparks 1: Custom Adapters for Ember Data - YouTube](https://www.youtube.com/watch?v=a3KGITKNbeQ)
+[Ember js - An Application Framework For The Future - YouTube](https://www.youtube.com/watch?v=KH5RreHtaaQ)
+[Ember-Validations &amp; Ember-EasyForm - YouTube](https://www.youtube.com/watch?v=QtqgqabNkPM)
+[Ember.js Screencasts - Embercasts](http://www.embercasts.com/)
+[Ember.js in Action - Joachim Haagen Skeie on Vimeo](http://vimeo.com/103702784)
+[EmberJs Simple Shopping Cart System - 1 List products on home page - YouTube](https://www.youtube.com/watch?v=HZf8-rBa2Uo)
+[Erik Bryn: Intro To Ember @ LinkedIn - YouTube](https://www.youtube.com/watch?v=XlWcj41D-So)
+[Joachim Haagen Skeie: Ember.js in Action on Vimeo](http://vimeo.com/68226820)
+[So, You&#39;re Thinking of Using Ember - Ralph Holzmann - YouTube](https://www.youtube.com/watch?v=oDFOJN1irAI)
+[Tom Dale on Ember and JavaScript Frameworks](http://www.infoq.com/interviews/tom-dale-ember)
+[Using Persistent Data Structures with Ember.js - Jamie White on Vimeo](http://vimeo.com/89089876)
+[Writing Ember.js Components with Ember CLI - YouTube](https://www.youtube.com/watch?v=WVZXywVpP34&utm_source=Ember+Weekly&utm_campaign=22438ae75a-Ember_Weekly_Issue_70&utm_medium=email&utm_term=0_e96229d21d-22438ae75a-106354641)
+[Yehuda Katz and Tom Dale (Tilde Inc.) interviewed at Fluent 2014 - YouTube](https://www.youtube.com/watch?v=VI__nGPT9kk)
+
+## Github
+
+[Future-proofing your Ember 1.x code](https://gist.github.com/samselikoff/1d7300ce59d216fdaf97)
+[abuiles/ember-cli-101-errata](https://github.com/abuiles/ember-cli-101-errata)
+[cibernox/ember-cpm](https://github.com/cibernox/ember-cpm)
+[data/TRANSITION.md at master · emberjs/data](https://github.com/emberjs/data/blob/master/TRANSITION.md)
+[developing-an-emberjs-edge/ember-trackr](https://github.com/developing-an-emberjs-edge/ember-trackr)
+[dockyard/ember-easyForm](https://github.com/dockyard/ember-easyForm)
+[dockyard/ember-validations](https://github.com/dockyard/ember-validations)
+[emberjs/data](https://github.com/emberjs/data)
+[emberjs/ember-rails](https://github.com/emberjs/ember-rails)
+[emberjs/ember.js](https://github.com/emberjs/ember.js)
+[emberjsbook](https://github.com/emberjsbook)
+[joachimhs/Ember.js-in-Action-Source](https://github.com/joachimhs/Ember.js-in-Action-Source)
+[rpflorence/ember-qunit](https://github.com/rpflorence/ember-qunit)
+[simplabs/ember-simple-auth](https://github.com/simplabs/ember-simple-auth)
+[trek/pretender](https://github.com/trek/pretender)
+[vicramon/ember-crm-js](https://github.com/vicramon/ember-crm-js)
